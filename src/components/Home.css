@@ -1,0 +1,26 @@
+/* Home.css */
+
+.home {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .home h2 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .home p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  
+  .home img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin-top: 20px;
+  }
+  
